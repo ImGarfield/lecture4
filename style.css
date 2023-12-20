@@ -1,0 +1,29 @@
+.submit{
+    width: 100px;
+    height: 40px;
+    background-color: lightblue;
+    color: blue;
+}
+
+input{
+    display: block;
+    width: 250px;
+    height: 40px;
+}
+
+.checkbox, .radio{
+    width: 15px;
+    height: auto;
+    display: inline;
+}
+
+a{
+    display: block;
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+html{
+    scroll-behavior:smooth;
+}
